@@ -1,0 +1,59 @@
+[{
+    "id": "1234791sdfa",
+    "title": "Illinois",
+    "artist": "LINER",
+    "fileName": "Illinois-LINER.mp3",
+    "date": "2022-10-29T11:13:00+00:00",
+    "tags": ["rap", "pop"],
+    "url2": "http://localhost:3000/api/play/Illinois-LINER",
+    "url": "http://172.21.241.8:3000/api/play/Illinois-LINER"
+  },
+  { "id": "5636526743",
+    "title": "Giovani Wannabe",
+    "artist": "Pinguini Tattici Nucleari",
+    "fileName": "GiovaniWannabe-PTN.mp3",
+    "date": "2022-10-29T11:14:00+00:00",
+    "tags": ["pop"],
+    "url2": "http://localhost:3000/api/play/GiovaniWannabe-PTN",
+    "url": "http://172.21.241.8:3000/api/play/GiovaniWannabe-PTN"
+
+  },
+  { "id": "344235325",
+    "title": "It's Oh So Quiet!",
+    "artist": "LDA",
+    "fileName": "It’s Oh So Quiet! - LDA.mp3",
+    "date": "2022-10-29T14:14:00+00:00",
+    "tags": ["pop", "amici", "rap", "cover"],
+    "url2": "http://localhost:3000/api/play/It’s Oh So Quiet! - LDA",
+    "url": "http://172.21.241.8:3000/api/play/It’s Oh So Quiet! - LDA"
+
+  },
+  {
+  "id": "5436573637",
+  "title": "Love Is Gone",
+  "artist": "Boh",
+  "fileName": "LoveIsGone.mp3",
+  "date": "2022-10-29T21:07:00+00:00",
+  "tags": ["rap", "pop", "beat", "love"],
+  "url2": "http://localhost:3000/api/play/LoveIsGone",
+    "url": "http://172.21.241.8:3000/api/play/LoveIsGone"
+  },
+  { "id": "111111111111",
+    "title": "Sofia",
+    "artist": "Alvaro Soler",
+    "fileName": "sofia.mp3",
+    "date": "2022-10-29T21:08:00+00:00",
+    "tags": ["pop", "karaoke"],
+    "url2": "http://localhost:3000/api/play/sofia",
+    "url": "http://172.21.241.8:3000/api/play/sofia"
+  },
+  { "id": "33333333333",
+    "title": "Camilla",
+    "artist": "Hale",
+    "fileName": "Hale - CAMILLA.mp3",
+    "date": "2022-10-29T21:08:00+00:00",
+    "tags": ["pop", "karaoke"],
+    "url2": "http://localhost:3000/api/play/Hale - CAMILLA",
+    "url": "http://172.21.241.8:3000/api/play/Hale - CAMILLA"
+
+  }]
